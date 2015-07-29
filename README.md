@@ -1,6 +1,6 @@
-```
-Motivation for Jobless Developers
-```
+***
+<b>wrong-binary-math</b> - Reversing and Forwarding the binary mathematical sequence in a a wrong format of sequencing.
+***
 ```
 Let's do "wrong binary" math sequence game :)
 ```
